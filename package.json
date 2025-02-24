@@ -1,0 +1,25 @@
+{
+  "name": "backend-development-ca2-m3-m4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jemimah000/Backend-Development-CA2-M3-M4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jemimah000/Backend-Development-CA2-M3-M4/issues"
+  },
+  "homepage": "https://github.com/Jemimah000/Backend-Development-CA2-M3-M4#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
